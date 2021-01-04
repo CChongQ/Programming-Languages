@@ -1,0 +1,24 @@
+User {
+    firstName: string;
+    lastName: string;
+    height: float;
+    age: integer;
+}
+
+Account {
+    user: User;
+    type: string;
+    balance: float;
+}
+
+Capital {
+    location_lat: float;
+    location_long: float;
+    name: string;
+}
+
+Parade {
+    location: string;
+    start: float;
+    end: float;
+}
