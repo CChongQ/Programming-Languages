@@ -36,3 +36,9 @@ Goal: Develop a type-safe remote procedure call framework (RPC)
 Language: C++ 11
 
 Completion: 94%
+
+## Contributor
+
+[Chenhong Qiu](https://github.com/CChongQ)
+
+[Lucia Liu](https://github.com/yixuannliu)
