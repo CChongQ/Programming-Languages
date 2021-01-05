@@ -1,4 +1,4 @@
-# Programming-Languages #
+# Programming Languages #
 
 Course: [ECE326: Programming Languages, Fall 2020](http://fs.csl.toronto.edu/~sunk/ece326.html) 
 
